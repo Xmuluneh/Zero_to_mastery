@@ -20,3 +20,4 @@ Modules
 print(type('AAron'))
 print(type(2/4))
 print(type(2//4))
+print(type(5%4))
