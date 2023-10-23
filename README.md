@@ -1,4 +1,4 @@
-## Complete Python Developer in 2021: Zero to Mastery
+## Complete Python Developer.
 The topics covered in this course are: 
 - Programming Fundamentals
 - Python Basics
